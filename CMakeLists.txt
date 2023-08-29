@@ -4,4 +4,4 @@ project(clionTest)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(clionTest
-        test.cpp)
+        test.cpp util/myadd.cpp)
