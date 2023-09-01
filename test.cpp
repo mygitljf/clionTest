@@ -9,5 +9,6 @@ int main(){
     cin>>a;
     int ans= add(a,6);
     cout<<ans<<endl;
+    cout<<"hello world!"<<endl;
     return 0;
 }
